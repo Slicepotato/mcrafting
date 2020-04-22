@@ -17,6 +17,11 @@ Matches up with the player tracking grid in the construct.
 |  | |A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|
 |  |+X 🠖|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 
+----
+
+Formatting for the command block pairs.
+
+Block setting: [Repeat]|[Unconditional]|[Always Active]
 
 <h3 name="a1">A1:</h3>
 
