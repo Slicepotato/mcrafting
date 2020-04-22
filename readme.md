@@ -20,5 +20,119 @@
 
 <h3 name="a2">A2:</h3>
 
-    execute as @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 5 -3 minecraft:redstone_block
-    execute unless entity @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 5 -3 minecraft:air
+    execute as @p[x=0,y=65,z=-34,dx=48,dy=65,dz=-33] run setblock 16 5 -3 minecraft:redstone_block
+    execute unless entity @p[x=0,y=65,z=-34,dx=48,dy=65,dz=-33] run setblock 16 5 -3 minecraft:air
+
+<h3 name="a3">A3:</h3>
+
+    execute as @p[x=0,y=65,z=-67,dx=48,dy=65,dz=-33] run setblock 16 6 -3 minecraft:redstone_block
+    execute unless entity @p[x=0,y=65,z=-67,dx=48,dy=65,dz=-33] run setblock 16 6 -3 minecraft:air
+
+<h3 name="a4">A4:</h3>
+
+    execute as @p[x=0,y=65,z=-100,dx=48,dy=65,dz=-33] run setblock 16 7 -3 minecraft:redstone_block
+    execute unless entity @p[x=0,y=65,z=-100,dx=48,dy=65,dz=-33] run setblock 16 7 -3 minecraft:air
+
+<h3 name="a5">A5:</h3>
+
+    execute as @p[x=0,y=65,z=-133,dx=48,dy=65,dz=-33] run setblock 16 8 -3 minecraft:redstone_block
+    execute unless entity @p[x=0,y=65,z=-133,dx=48,dy=65,dz=-33] run setblock 16 8 -3 minecraft:air
+
+<h3 name="a6">A6:</h3>
+
+    execute as @p[x=0,y=65,z=-166,dx=48,dy=65,dz=-33] run setblock 16 9 -3 minecraft:redstone_block
+    execute unless entity @p[x=0,y=65,z=-166,dx=48,dy=65,dz=-33] run setblock 16 9 -3 minecraft:air
+
+<h3 name="a7">A7:</h3>
+
+    execute as @p[x=0,y=65,z=-199,dx=48,dy=65,dz=-33] run setblock 16 10 -3 minecraft:redstone_block
+    execute unless entity @p[x=0,y=65,z=-199,dx=48,dy=65,dz=-33] run setblock 16 10 -3 minecraft:air
+
+<h3 name="a8">A8:</h3>
+
+    execute as @p[x=0,y=65,z=-232,dx=48,dy=65,dz=-33] run setblock 16 11 -3 minecraft:redstone_block
+    execute unless entity @p[x=0,y=65,z=-232,dx=48,dy=65,dz=-33] run setblock 16 11 -3 minecraft:air
+
+----
+
+<h3 name="b1">B1:</h3>
+
+    execute as @p[x=48,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 17 4 -3 minecraft:redstone_block
+    execute unless entity @p[x=48,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 17 4 -3 minecraft:air
+
+<h3 name="b2">B2:</h3>
+
+    execute as @p[x=48,y=65,z=-34,dx=48,dy=65,dz=-33] run setblock 17 5 -3 minecraft:redstone_block
+    execute unless entity @p[x=48,y=65,z=-34,dx=48,dy=65,dz=-33] run setblock 17 5 -3 minecraft:air
+
+<h3 name="b3">B3:</h3>
+
+    execute as @p[x=48,y=65,z=-67,dx=48,dy=65,dz=-33] run setblock 17 6 -3 minecraft:redstone_block
+    execute unless entity @p[x=48,y=65,z=-67,dx=48,dy=65,dz=-33] run setblock 17 6 -3 minecraft:air
+
+<h3 name="b4">B4:</h3>
+
+    execute as @p[x=48,y=65,z=-100,dx=48,dy=65,dz=-33] run setblock 17 7 -3 minecraft:redstone_block
+    execute unless entity @p[x=48,y=65,z=-100,dx=48,dy=65,dz=-33] run setblock 17 7 -3 minecraft:air
+
+<h3 name="b5">B5:</h3>
+
+    execute as @p[x=48,y=65,z=-133,dx=48,dy=65,dz=-33] run setblock 17 8 -3 minecraft:redstone_block
+    execute unless entity @p[x=48,y=65,z=-133,dx=48,dy=65,dz=-33] run setblock 17 8 -3 minecraft:air
+
+<h3 name="b6">B6:</h3>
+
+    execute as @p[x=48,y=65,z=-166,dx=48,dy=65,dz=-33] run setblock 17 9 -3 minecraft:redstone_block
+    execute unless entity @p[x=48,y=65,z=-166,dx=48,dy=65,dz=-33] run setblock 17 9 -3 minecraft:air
+
+<h3 name="b7">B7:</h3>
+
+    execute as @p[x=48,y=65,z=-199,dx=48,dy=65,dz=-33] run setblock 17 10 -3 minecraft:redstone_block
+    execute unless entity @p[x=48,y=65,z=-199,dx=48,dy=65,dz=-33] run setblock 17 10 -3 minecraft:air
+
+<h3 name="b8">B8:</h3>
+
+    execute as @p[x=48,y=65,z=-232,dx=48,dy=65,dz=-33] run setblock 17 11 -3 minecraft:redstone_block
+    execute unless entity @p[x=48,y=65,z=-232,dx=48,dy=65,dz=-33] run setblock 17 11 -3 minecraft:air
+
+----
+
+<h3 name="c1">C1:</h3>
+
+    execute as @p[x=96,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 18 4 -3 minecraft:redstone_block
+    execute unless entity @p[x=96,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 18 4 -3 minecraft:air
+
+<h3 name="c2">C2:</h3>
+
+    execute as @p[x=96,y=65,z=-34,dx=48,dy=65,dz=-33] run setblock 18 5 -3 minecraft:redstone_block
+    execute unless entity @p[x=96,y=65,z=-34,dx=48,dy=65,dz=-33] run setblock 18 5 -3 minecraft:air
+
+<h3 name="c3">C3:</h3>
+
+    execute as @p[x=96,y=65,z=-67,dx=48,dy=65,dz=-33] run setblock 18 6 -3 minecraft:redstone_block
+    execute unless entity @p[x=96,y=65,z=-67,dx=48,dy=65,dz=-33] run setblock 18 6 -3 minecraft:air
+
+<h3 name="c4">C4:</h3>
+
+    execute as @p[x=96,y=65,z=-100,dx=48,dy=65,dz=-33] run setblock 18 7 -3 minecraft:redstone_block
+    execute unless entity @p[x=96,y=65,z=-100,dx=48,dy=65,dz=-33] run setblock 18 7 -3 minecraft:air
+
+<h3 name="c5">C5:</h3>
+
+    execute as @p[x=96,y=65,z=-133,dx=48,dy=65,dz=-33] run setblock 18 8 -3 minecraft:redstone_block
+    execute unless entity @p[x=96,y=65,z=-133,dx=48,dy=65,dz=-33] run setblock 18 8 -3 minecraft:air
+
+<h3 name="c6">C6:</h3>
+
+    execute as @p[x=96,y=65,z=-166,dx=48,dy=65,dz=-33] run setblock 18 9 -3 minecraft:redstone_block
+    execute unless entity @p[x=96,y=65,z=-166,dx=48,dy=65,dz=-33] run setblock 18 9 -3 minecraft:air
+
+<h3 name="c7">C7:</h3>
+
+    execute as @p[x=96,y=65,z=-199,dx=48,dy=65,dz=-33] run setblock 18 10 -3 minecraft:redstone_block
+    execute unless entity @p[x=96,y=65,z=-199,dx=48,dy=65,dz=-33] run setblock 18 10 -3 minecraft:air
+
+<h3 name="c8">C8:</h3>
+
+    execute as @p[x=96,y=65,z=-232,dx=48,dy=65,dz=-33] run setblock 18 11 -3 minecraft:redstone_block
+    execute unless entity @p[x=96,y=65,z=-232,dx=48,dy=65,dz=-33] run setblock 18 11 -3 minecraft:air
