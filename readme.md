@@ -21,7 +21,7 @@ Matches up with the player tracking grid in the construct.
 
 Formatting for the command block pairs.
 
-Block setting: *Repeat* | *Unconditional* | *Always Active*
+Block setting: **Repeat** | **Unconditional** | **Always Active**
 
 <h3 name="a1">A1:</h3>
 
