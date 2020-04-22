@@ -20,8 +20,8 @@ Matches up with the player tracking grid in the construct.
 
 <h3 name="a1">A1:</h3>
 
-    `execute as @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:redstone_block`
-    `execute unless entity @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:air`
+    execute as @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:redstone_block
+    execute unless entity @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:air
 
 <h3 name="a2">A2:</h3>
 
