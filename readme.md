@@ -14,7 +14,6 @@
 
 
 <a name="a1">A1</a>:
-
     `execute as @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:redstone_block`
     `execute unless entity @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:air`
 
