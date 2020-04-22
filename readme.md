@@ -1,4 +1,9 @@
 # Minecraft Snippets
+
+## Light Grid Orientation
+
+Matches up with the player tracking grid in the construct.
+
 |-Z||||||||||||||||||
 |---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |11|8|[•](#a8)|[•](#b8)|[•](#c8)|[•](#d8)|[•](#e8)|[•](#f8)|[•](#g8)|[•](#h8)|[•](#i8)|[•](#j8)|[•](#k8)|[•](#l8)|[•](#m8)|[•](#n8)|[•](#o8)|[•](#p8)|
@@ -15,8 +20,8 @@
 
 <h3 name="a1">A1:</h3>
 
-    execute as @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:redstone_block
-    execute unless entity @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:air
+    `execute as @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:redstone_block`
+    `execute unless entity @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:air`
 
 <h3 name="a2">A2:</h3>
 
