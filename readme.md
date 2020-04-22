@@ -13,14 +13,12 @@
 |  |+X|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30|31|
 
 
-### A1: {#a1}
+<h3 name="a1">A1:</h3>
 
-execute as @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:redstone_block
+    execute as @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:redstone_block
+    execute unless entity @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:air
 
-execute unless entity @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 4 -3 minecraft:air
+<h3 name="a2">A2:</h3>
 
-### A2: {#a2}
-
-execute as @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 5 -3 minecraft:redstone_block
-
-execute unless entity @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 5 -3 minecraft:air
+    execute as @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 5 -3 minecraft:redstone_block
+    execute unless entity @p[x=0,y=65,z=0,dx=48,dy=65,dz=-33] run setblock 16 5 -3 minecraft:air
